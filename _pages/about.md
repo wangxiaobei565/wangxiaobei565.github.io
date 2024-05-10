@@ -1,49 +1,105 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Something about me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<span style="font-family: Helvetica"> Here is Xiaobei Wang(王潇北)’s Page. I’m currently a graduate student in [College of Engineering(工学院)](https://www.coe.pku.edu.cn/) at [Peking University(北京大学)](https://www.pku.edu.cn/) , supervised by [Prof. Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html). My research interest mainly include Deep Reinforcement Learning, AI for Finance, Recommender Systems, Data Mining and LLM(Large Language Model).</span>
 
-A data-driven personal website
+During my journey in Peking university, I was a member of [Intelligent Biomimetic Design Lab(北京大学智能仿生设计实验室)](https://en.ibdl.pku.edu.cn) advised by [Prof. Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html), focusing on developing robust, efficient and practical reinforcement learning algorithms for recommender systems. I also joined [FinLab(北京大学金融工程实验室)](finlab.pku.edu.cn) advised by [Prof. Shaoran Li(李少然)](http://lishaoran.com) and [Prof. Xinping Li(黎新平)](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjrxx/374743.htm), exploring application of deep learning and reinforcement learning in practical Finance or Economics problems.
+
+
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- <div style="display: flex; justify-content: space-between;">
+    <div><strong>2021.09-2024.06(expected)</strong></div>
+    <div style="margin-left: auto;"><strong>PKU(Peking University)</strong></div>
+  - M.S. student in College of Engineering<br>
+  - Advisor: Guangming Xie<br>
+  - Research topics: Recommender systems, Deep Reinforcement Learning<br>
+  - Thesis: Research on Long-term Value of Items in Reinforcement Learning-based Recommendation Systems.
+- <div style="display: flex; justify-content: space-between;">
+    <div><strong>2017.09-2021.06</strong></div>
+    <div style="margin-left: auto;"><strong>TUST(TianJin University of Science & Technology)</strong></div> 
+  - B.S. student in College of Mechanical Engineering<br>
+  - Advisor: Delei Fang<br>
+  - Research topics: Robot, Automatic Control, Mathematical Modeling<br>
+  - Thesis: Control and simulation analysis of a hydraulically driven legged robot.
+    
 
-Getting started
+
+INDUSTRY EXPERIENCES
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- <div style="display: flex; justify-content: space-between;">
+    <div><strong>2023.06-2024.03 </strong></div>
+    <div style="margin-left: auto;"><strong>Kuaishou(快手科技)</strong></div>
+  - Research Intern(研究实习生)
+  - Advisor: Advisor: Shuchang Liu, Qingpeng Cai<br>
+  - Research topics: Recommender system, Deep Reinforcement Learning
+  
+- <div style="display: flex; justify-content: space-between;">
+    <div><strong>2023.03-2023.06 </strong></div>
+    <div style="margin-left: auto;"><strong>ByteDance(字节跳动)</strong></div>
+  - Intern(算法实习生)
+  - Advisor: Domgmin Ma, Tao Lin<br>
+  - Industry topics: Large Language Model,AIGC(AI-Generated Content)
 
-Site-wide configuration
+- <div style="display: flex; justify-content: space-between;">
+    <div><strong>2022.07-2023.01 </strong></div>
+    <div style="margin-left: auto;"><strong>Shanghai AI Lab(上海人工智能实验室)</strong></div>
+  - Research Intern(研究实习生)
+  - Advisor: Yu Tang, Henjie Li<br>
+  - Research topics: Large-scale training frameworks
+
+
+Projects
+======
+- **[Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
+  ![](../images/item.png)
+  - We specify the challenge of inconsistency between users' item-wise view and the recommender system's list-wise view. To solve the challenges mentioned above, we propose an item-decomposed advantage actor-critic framework and verify its superiority on multiple public datasets and an online A/B test.<br>
+  - The paper is submitted to KDD 2024(Ads track)
+  
+  
+  
+
+- **Value Function Decomposition in Markov Recommendation Process** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
+  ![](../images/TD.png)
+  - We specify the challenge of sub-optimal TD learning under the mixed random factors from policy and user environment and propose a decomposed TD learning framework that separately addresses the two random factors and empirically shows its superiority in online MRP. <br>
+  - The paper is submitted to KDD 2024(research track)
+
+- **Financial Text Analysis and Stock Image Forecasting** (Work was done at Finlab in Peking University)<br>
+
+  - We conduct a research project merging ML, NLP to analyze the impact of news text on multiple stocks and investigate the correlation between textual information and stock performance.
+  - We implement image analysis to generate stock Candlestick chart images, assessed different models for accuracy, and leveraged predictive factors to construct a profitable investment portfolio.
+
+- **LLM(Large Language Model) for TikTok E-Commerce Network Broadcast** (Work was done at ByteDance)<br>
+  - We prompt LLM to generate product titles based on product information.
+  - we conduct research on the current status and key technologies of Chinese open-source large language models, such as ChatGLM.
+  - We fine-tune a smaller version of the LLM with the dataset generated by LLM and collected live streaming text.
+
+
+
+
+
+- **AutoScale: Automated Training and Evaluating Large-scale Models with Extendable Modules beyond 3D Parallel** (Work was done at Shanghai AI Lab)<br>
+![](../images/AutoScale.png)
+  - We propose a novel framework, AutoScale, getting rid of the dependence on the mathematical models of current auto parallel algorithms.
+  - AutoScale consists of three extendable modules, namely Search Space, Cost Model, and Search Module, which regards the 3D Parallel from a unified formulation and utilizes paralleled search algorithms to scale search modules automatically.  
+
+
+
+  
+AWARDS & HONORS
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- 2024  Outstanding Graduate Student Award of Peking university
+- 2023	Award for Ubiquant Scholarship of Peking university.
+- 2023	Award for Academic Excellents of Peking university.
+- 2022  Champion of the 11th Capital University's Dragon Boat Championships 
+- 2022	Award for Contribution in Student Organizations of Peking university.
+- 2022	Award for Kangming Wu Foundation Scholarship of Peking university.
+- 2020  Award for First Class Scholarship in TUST.
+- 2019	First Prize in TianJin Contest District in China Undergraduate Mathematical Contest in Modeling.
