@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="font-family: Helvetica"> Here is Xiaobei Wang(王潇北)’s Page. I’m currently a graduate student in [College of Engineering(工学院)](https://www.coe.pku.edu.cn/) at [Peking University(北京大学)](https://www.pku.edu.cn/) , supervised by [Prof. Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html). My research interest mainly include Deep Reinforcement Learning, AI for Finance, Recommender Systems, Data Mining and LLM(Large Language Model).</span>
 
-During my journey in Peking university, I was a member of [Intelligent Biomimetic Design Lab(北京大学智能仿生设计实验室)](https://en.ibdl.pku.edu.cn) advised by [Prof. Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html), focusing on developing robust, efficient and practical reinforcement learning algorithms for recommender systems. I also joined [FinLab(北京大学金融工程实验室)](finlab.pku.edu.cn) advised by [Prof. Shaoran Li(李少然)](http://lishaoran.com) and [Prof. Xinping Li(黎新平)](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjrxx/374743.htm), exploring application of deep learning and reinforcement learning in practical Finance or Economics problems.
+During my journey in Peking university, I was a member of [Intelligent Biomimetic Design Lab(北京大学智能仿生设计实验室)](https://en.ibdl.pku.edu.cn) advised by [Prof. Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html), focusing on developing robust, efficient and practical reinforcement learning algorithms for recommender systems. 
 
 
 Education
@@ -71,10 +71,6 @@ Projects
   - We specify the challenge of sub-optimal TD learning under the mixed random factors from policy and user environment and propose a decomposed TD learning framework that separately addresses the two random factors and empirically shows its superiority in online MRP. <br>
   - The paper is submitted to KDD 2024(research track)
 
-- **Financial Text Analysis and Stock Image Forecasting** (Work was done at Finlab in Peking University)<br>
-
-  - We conduct a research project merging ML, NLP to analyze the impact of news text on multiple stocks and investigate the correlation between textual information and stock performance.
-  - We implement image analysis to generate stock Candlestick chart images, assessed different models for accuracy, and leveraged predictive factors to construct a profitable investment portfolio.
 
 - **LLM(Large Language Model) for TikTok E-Commerce Network Broadcast** (Work was done at ByteDance)<br>
   - We prompt LLM to generate product titles based on product information.
